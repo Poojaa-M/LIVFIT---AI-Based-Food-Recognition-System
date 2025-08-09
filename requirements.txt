@@ -1,0 +1,7 @@
+tensorflow==2.10.1
+numpy==1.23.5
+opencv-python==4.8.0.76
+Pillow==9.4.0
+Flask 
+requests 
+fatsecret
