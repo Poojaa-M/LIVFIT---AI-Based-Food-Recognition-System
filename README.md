@@ -32,12 +32,13 @@ LivFit is an AI-powered health and fitness application designed to help users li
 <img width="570" height="370" alt="image" src="https://github.com/user-attachments/assets/cc2d0348-4051-4b35-883f-0f27aeac86c7" />
 
 ### 🍱 Nutrition Analysis
-<img width="975" height="615" alt="image" src="https://github.com/user-attachments/assets/b2f757bd-14ab-41e4-9a76-da36e640d6ed" />
 <img width="473" height="288" alt="image" src="https://github.com/user-attachments/assets/1a46b855-7cef-4f62-a493-4ab070690c9b" />
+
+<img width="975" height="615" alt="image" src="https://github.com/user-attachments/assets/b2f757bd-14ab-41e4-9a76-da36e640d6ed" />
 
 ---
 
 ## 📌 Future Enhancements
-Integration with wearable devices (Fitbit, Apple Watch, etc.)
-AI chatbot for personalized health advice
-Cloud-based user profile & analytics
+- Integration with wearable devices (Fitbit, Apple Watch, etc.)
+- AI chatbot for personalized health advice
+- Cloud-based user profile & analytics
